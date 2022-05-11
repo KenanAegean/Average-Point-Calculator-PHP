@@ -1,4 +1,4 @@
-# Average-Point-Calculator-PHP
+# Average Score Calculator PHP
 Average Score Calculator Website made by me.
 http://kenan.ogrenci.web.tr/projem/
 
